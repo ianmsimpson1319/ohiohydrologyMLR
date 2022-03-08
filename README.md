@@ -3,7 +3,7 @@ To get specfic parameter values for model equations type in:
 summary(V_MLR.5),
 summary(Q_MLR.6),
 summary(Q_MLR.8),
-and run code as a separate line.
+and run each separately.
 
 All inputs to the model should be in metric units:
 Rain fall depth - mm,
