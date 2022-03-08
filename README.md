@@ -1,17 +1,17 @@
 # ohiohydrologyMLR
 To get specfic parameter values for model equations type in:
-summary(V_MLR.5)
-summary(Q_MLR.6)
-summary(Q_MLR.8)
+summary(V_MLR.5),
+summary(Q_MLR.6),
+summary(Q_MLR.8),
 and run code as a separate line.
 
 All inputs to the model should be in metric units:
-Rain fall depth - mm
-Watershed area - ha
-Average rain intenstity - mm/hr
-Peak rain intensity - mm/hr
-Slope and imperviousness inputs are in percent
-Only land uses used in the paper can be input into any model
+Rain fall depth - mm,
+Watershed area - ha,
+Average rain intenstity - mm/hr,
+Peak rain intensity - mm/hr,
+Slope and imperviousness inputs are in percent,
+Only land uses used in the paper can be input into any model,
 
 Inputs to the volume model include: "Rain.Depth.mm", "Area.ha", "Land.Use", and "Imperviousness,.percent". Predicted runoff volume is in cubic meters^(1/3).
 #example: type in code#
