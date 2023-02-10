@@ -1,3 +1,5 @@
+Link to zenodo repository: https://zenodo.org/record/7630412#.Y-apOHbMKUl
+
 # ohiohydrologyMLR
 To get specfic parameter values for model equations type in:
 summary(V_MLR.5),
